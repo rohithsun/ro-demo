@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  Test Variables
+Documentation  Test variables
 
 *** Variables ***
 ${URL}  https://test.salesforce.com
