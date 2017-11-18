@@ -1,7 +1,0 @@
-*** Settings ***
-Documentation  THIS IS TEST VARIABLES
-
-
-*** Variables ***
-${BROWSER}  gc
-${URL}  https://test.salesforce.com
