@@ -10,5 +10,5 @@ Open browser to login page
 Login to salesforce
     Open Browser  https://test.salesforce.com  gc
     sleep  5s
-    title should be  Login | Salesforce
+    title should be  Login | Salesfor
     Close Browser
