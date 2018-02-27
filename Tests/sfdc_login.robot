@@ -9,5 +9,6 @@ Open browser to login page
 *** Keywords ***
 Login to salesforce
     Open Browser  https://test.salesforce.com  gc
+    sleep  10  
     title should be  Login | Salesforce
     Close Browser
