@@ -21,6 +21,6 @@ test_demo
     AppiumLibrary.input text  username  rn10@jjfsr.com.sit
     AppiumLibrary.input password  password  Start12345
     AppiumLibrary.click element  Login
-    wait until page contains element  Home  25s
+    wait until page contains element  Home  50s
     AppiumLibrary.capture page screenshot
     close application
